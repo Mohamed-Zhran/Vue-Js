@@ -37,7 +37,7 @@ export default {
     data: function() {
         return {
             pageName: "Blog",
-            pageDescription: "This is Blog page",
+            pageDescription: "This is Blog a page",
             posts: JsonPosts
         };
     },

@@ -10,7 +10,7 @@
 export default {
     data: function() {
         return {
-            pageName: "About Us",
+            pageName: "About an Us",
             pageDescription: "This is a About Us Page"
         };
     },

@@ -5,13 +5,11 @@
     </div>
 </template>
 <script>
-// @ is an alias to /src
-
 export default {
     data: function() {
         return {
             pageName: "About an Us",
-            pageDescription: "This is a About Us Page"
+            pageDescription: "This a is a About Us Page"
         };
     },
     name: "about"

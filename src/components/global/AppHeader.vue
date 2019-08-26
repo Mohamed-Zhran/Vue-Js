@@ -4,7 +4,8 @@
             <h3 class="logo">Mohamed Zhran Vue</h3>
             <ul>
                 <router-link to="/" tag="li"><a>Home</a></router-link>
-                <router-link to="/about" tag="li"><a>About</a></router-link>
+                <router-link to="/about/1" tag="li"><a>About1</a></router-link>
+                <router-link to="/about/2" tag="li"><a>About2</a></router-link>
                 <router-link to="/help" tag="li"><a>Help</a></router-link>
                 <router-link to="/blog" tag="li"><a>Blog</a></router-link>
             </ul>
